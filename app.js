@@ -21,6 +21,7 @@ app.get('/', (req, res) => {
     res.render('index');
 });
 
+
 // ---------------------------------------------------
 
 // Start the server
